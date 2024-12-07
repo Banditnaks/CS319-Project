@@ -1,0 +1,33 @@
+/* พื้นหลังแบบฟูลสกรีน */
+  .login-container {
+    height: 100vh;
+    background: #ffc8c9;
+    color: #fff;
+  }
+  
+  /* การ์ดสำหรับหน้า Login */
+  .login-card {
+    width: 100%;
+    max-width: 400px;
+    background: #fff;
+    color: #000;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+  }
+  
+  /* ปรับแต่งฟอร์ม */
+  .form-control {
+    border-radius: 8px;
+  }
+  
+  /* ปุ่ม Login */
+  .btn-primary {
+    background-color: #6c63ff;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #574bdf;
+  }
+  

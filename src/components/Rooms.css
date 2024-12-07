@@ -1,0 +1,127 @@
+  body {
+    background-color: #ffc8c9;
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+  }
+  
+  .container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .form-control {
+    border: 2px solid #000;
+    border-radius: 4px;
+  }
+  
+  button.btn-primary {
+    background-color: #0012ff;
+    border: none;
+    padding: 8px 10px;
+    font-size: 16px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  button.btn-primary:hover {
+    background-color: #ffc8c9;
+  }
+  
+  .table {
+    font-size: 14px;
+  }
+  
+  .table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .table-dark {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  .table-bordered td,
+  .table-bordered th {
+    border: 1px solid #dee2e6;
+  }
+  
+  .modal-content {
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .modal-header {
+    background-color: #ffc8c9;
+    color: white;
+  }
+  
+  .modal-footer button {
+    font-size: 14px;
+    padding: 8px 12px;
+  }
+  
+  .modal .form-control {
+    border: 2px solid #000;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .modal .form-control:focus {
+    border-color: #ffc8c9;
+  }
+
+  .table th, .table td {
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    max-width: 150px; 
+  }
+  
+  .table th, .table td {
+    text-align: center; 
+  }
+  
+  .table th:nth-child(1), .table td:nth-child(1) {
+    width: 5%; 
+  }
+  
+  .table th:nth-child(2), .table td:nth-child(2) {
+    width: 10%; 
+  }
+  
+  .table th:nth-child(3), .table td:nth-child(3) {
+    width: 10%; 
+  }
+
+  .table th:nth-child(9), .table td:nth-child(9) {
+    width: 20%; 
+  }
+  
+  .table th:nth-child(4), .table td:nth-child(4) {
+    width: auto; 
+  }
+  
+
+  .logo-img {
+    display: block; 
+    margin: 0 auto; 
+    width: 130px; 
+    height: auto; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    border-radius: 10px;
+  }
+
+  .custom-settings-btn {
+    background-color: #008000; 
+    color: #ffffff;            
+    border: 1px solid #008000; 
+  }
+  
+
+  
